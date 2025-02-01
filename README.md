@@ -12,9 +12,9 @@
 
 *MENTOR*: NEELA SANTHOSH
 
-*Description of the Task* :  This project involves building a simple Python-based chatbot that can interact with users through a series of predefined patterns. The chatbot can respond to various types of queries such as greetings, jokes, date & time, and general information about programming languages and AI. The main objective is to create an interactive and user-friendly chatbot that can simulate basic conversations and answer frequently asked questions.
+* *Description of the Task* :  This project involves building a simple Python-based chatbot that can interact with users through a series of predefined patterns. The chatbot can respond to various types of queries such as greetings, jokes, date & time, and general information about programming languages and AI. The main objective is to create an interactive and user-friendly chatbot that can simulate basic conversations and answer frequently asked questions.
 
-*Features* : Responds to greetings like "Hi," "Hello," etc.
+* *Features* : Responds to greetings like "Hi," "Hello," etc.
 ,Provides current date and time.
 ,Tells jokes and fun facts.
 ,Answers common questions related to Python and Artificial Intelligence.
@@ -22,7 +22,7 @@
 ,Provides fallback responses for unrecognized inputs.
 ,Offers a clean exit functionality.
 
-*Tools and Libraries Used* : 
+* *Tools and Libraries Used* : 
 
 1]Python 3.x: The programming language used to write the chatbot logic.
 
@@ -32,10 +32,10 @@ NLTK helps with processing and understanding user inputs through predefined patt
 
 3]datetime: Used to fetch the current time and date.
 
-*Editors Used* :
+* *Editors Used* :
 This code can run in Visual Studio Code (VS Code),PyCharm,Jupyter Notebook,IDLE (Integrated Development and Learning Environment) or any other python supporting environment. I have used IDLE, default editor that comes with Python installations with features like Simple UI for beginners with basic debugging and code execution capabilities.
 
-*Where This Task is Applicable* : 
+* *Where This Task is Applicable* : 
 This chatbot can be used in:
 
 1]Customer Support Automation: It can be adapted for customer service to answer frequently asked questions and handle basic queries.
