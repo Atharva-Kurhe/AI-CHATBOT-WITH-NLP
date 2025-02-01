@@ -47,3 +47,7 @@ This chatbot can be used in:
 4]Prototyping Chatbots: The code can serve as a base for more advanced chatbot systems that use machine learning models or NLP techniques to understand and respond to user queries more accurately.
 
 #OUTPUT : 
+
+![Image](https://github.com/user-attachments/assets/26adfc44-7150-4be8-be96-b291f1e09051)
+
+
