@@ -1,16 +1,16 @@
 # AI-CHATBOT-WITH-NLP
 
-*COMPANY*: CODTECH IT SOLUTIONS
+*COMPANY* : CODTECH IT SOLUTIONS
 
-*NAME*: ATHARVA MANOJ KURHE
+*NAME* : ATHARVA MANOJ KURHE
 
-*INTERN ID*: CT08PEM
+*INTERN ID* : CT08PEM
 
-*DOMAIN*: PYTHON PROGRAMMING
+*DOMAIN* : PYTHON PROGRAMMING
 
-*DURATION*: 4 WEEKS
+*DURATION* : 4 WEEKS
 
-*MENTOR*: NEELA SANTHOSH
+*MENTOR* : NEELA SANTHOSH
 
 * *Overview of the Task* :
 
@@ -35,6 +35,7 @@ The chatbot boasts several key features aimed at providing a seamless user exper
 7] Clean Exit Functionality: Users can exit the conversation gracefully through a clean exit command. This feature ensures that the interaction concludes smoothly, providing a satisfying end to the chat session.
 
 * *Tools and Libraries Used* :
+ 
 The development of this chatbot incorporates several tools and libraries to ensure robust functionality:
 
 1] Python 3.x: The core programming language used to develop the chatbot. Python's simplicity and extensive library support make it an ideal choice for this project.
